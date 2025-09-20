@@ -53,5 +53,775 @@
       "D": "Hobby"
     },
     "answer": ""
+  },
+  {
+    "questionNumber": "6",
+    "question": "The war in Ukraine has affected the economy and the people of the country. The recession ratio has heightened, the unemployment ratio has increased, there has been a loss of business revenue and crime rates have worsened. To which classification of risk does this statement refer to?",
+    "options": {
+      "A": "Particular risk",
+      "B": "Fundamental risk",
+      "C": "Static risk",
+      "D": "Dynamic risk"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "7",
+    "question": "Which of the following risks are insurable?\n\nI. Pure risks\nII. Particular risks\nIII. Fundamental risks",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "I, II and III"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "8",
+    "question": "Assume that you own a fireworks manufacturing plant. A prospective insurer indicates it will not insure your property unless you take some loss prevention measures. Which of the following is the best loss prevention measure?",
+    "options": {
+      "A": "Maintain your own fire department",
+      "B": "Create two identical facilities, each having half the capacity of the original building",
+      "C": "Put smoke alarms and fire sprinklers in each building",
+      "D": "Do not mix ingredients until the last possible moment"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "9",
+    "question": "Which of the following statements concerning individual’s willingness to assume risk are correct?\n\nI. Risk averters have low tolerance for risks\nII. Risk indifferent people are influenced neither by the danger nor the opportunity presented by risky situations\nIII. Risk seekers have high tolerance for risks in certain life situations",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "I, II and III"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "10",
+    "question": "A sushi bar is concerned about lawsuits from customers who may become ill after eating raw fish. Avoidance is not an option, since a sushi bar's main product line is raw fish. Which of the following would be the most practical loss prevention technique the restaurant could use?",
+    "options": {
+      "A": "Posting a sign in the restaurant that says \"Not responsible for anything\"",
+      "B": "Requiring each customer to sign a legal waiver before serving them sushi",
+      "C": "Posting a warning on the menu that explains the risks of consuming raw fish",
+      "D": "Training servers to identify patrons who are feeling ill"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "11",
+    "question": "Which of the following would be least important in making a self-insurance decision?",
+    "options": {
+      "A": "The size of the risk pool",
+      "B": "Social and ethical concerns",
+      "C": "Historical management policy",
+      "D": "Financial ability to pay losses"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "12",
+    "question": "Which of the following statements about the loss control is not correct?",
+    "options": {
+      "A": "Loss control is also known as risk control",
+      "B": "Loss control can be classified into two categories, namely loss prevention and loss reduction",
+      "C": "A number of activities associated with loss control simultaneously reduce both loss frequency as well as severity",
+      "D": "Risk transfer is an example of loss control"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "13",
+    "question": "The four techniques used in a risk management plan are risk avoidance, _______, risk retention and _______.",
+    "options": {
+      "A": "risk control, risk transfer",
+      "B": "risk clearance, risk transfer",
+      "C": "risk control, property risk",
+      "D": "risk transfer, risk implementation"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "14",
+    "question": "In risk management, the replacement of one activity or substance with another which is less dangerous is termed ____________.",
+    "options": {
+      "A": "elimination",
+      "B": "substitution",
+      "C": "separation",
+      "D": "rational planning"
+    },
+    "answer": ""
+  },
+   {
+    "questionNumber": "15",
+    "question": "Examine the following list of \"risks.\" Determine which of these are \"pure risks.\"\n\nI. The risk that your antique BMW will depreciate in market value\nII. The risk that you will have a collision in your BMW, thus causing you to spend thousands of dollars in repair costs\nIII. The risk that someone will steal your BMW\nIV. The risk that you will buy a house and lightning will strike your roof, thus causing you to have to purchase a new roof\nV. The risk that you will invest your life savings in a business venture that fails, thus causing you to lose your entire investment",
+    "options": {
+      "A": "I, II, III, IV, and V",
+      "B": "I, II, and IV",
+      "C": "I, II, III, and IV",
+      "D": "II, III, and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "16",
+    "question": "Which of the following would not be considered a need in the needs-based approach?",
+    "options": {
+      "A": "Burial fund",
+      "B": "Fund to cover the equity in the home",
+      "C": "College education fund",
+      "D": "Debt retirement fund"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "17",
+    "question": "In motor insurance, the sum assured is based on ___________.",
+    "options": {
+      "A": "the agent’s estimation of the value of the motor vehicle’s risk",
+      "B": "the insurer’s estimation of the value of the motor vehicle’s risk",
+      "C": "the market value of the vehicle at the time the insurance is bought",
+      "D": "a fixed tariff rate"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "18",
+    "question": "Using the ____ approach is the most accurate method to determine life insurance needs.",
+    "options": {
+      "A": "human life value",
+      "B": "multiple earnings",
+      "C": "economic identification",
+      "D": "needs analysis"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "19",
+    "question": "In determining available resources to offset economic needs, you would generally not consider __________.",
+    "options": {
+      "A": "retirement benefits",
+      "B": "earning potential of financially independent children",
+      "C": "earning potential of surviving spouse",
+      "D": "savings"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "20",
+    "question": "According to Dr. S.S. Huebner, the human life value is defined as _______.",
+    "options": {
+      "A": "the present value of potential income loss by dependents as a result of a person’s death",
+      "B": "measuring risk associated with premature death",
+      "C": "the future value of potential income loss by dependents as a result of a person’s death",
+      "D": "loss of potential income for dependents"
+    },
+    "answer": ""
+  },
+    {
+    "questionNumber": "21",
+    "question": "Pension for civil service retirees is an example of a _____ scheme.",
+    "options": {
+      "A": "defined-benefit",
+      "B": "defined-contribution",
+      "C": "defined-hybrid",
+      "D": "defined-retirement"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "22",
+    "question": "The needs approach to determining the amount of life insurance considers ___.",
+    "options": {
+      "A": "family income",
+      "B": "paying off debts",
+      "C": "specific financial needs",
+      "D": "all of the above"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "23",
+    "question": "A double storey house with a current construction value of RM520,000 is partially destroyed by fire. Replacement cost is estimated at RM225,000 and depreciation is RM25,000. How much can the owner expect from an insurance policy that compensates for the loss on an actual cash value basis?",
+    "options": {
+      "A": "RM520,000",
+      "B": "RM250,000",
+      "C": "RM225,000",
+      "D": "RM200,000"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "24",
+    "question": "Peter is the General Manager of Zen Sdn Bhd. As a key-man, his annual compensation is RM330,000. The current annual salary of an executive to perform his routine duties is RM30,000. It is estimated that it takes three years to train a successor to fully replace Peter. What is the value of the key-man?",
+    "options": {
+      "A": "RM300,000",
+      "B": "RM330,000",
+      "C": "RM600,000",
+      "D": "RM900,000"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "25",
+    "question": "Patrick is 33 years old and expected to retire at age 58. His annual earnings are RM80,000, out of which RM60,000 is needed to support his family yearly for the next 25 years. Assuming the growth of his income is 4% per annum, his human life value is expected to be ____________.",
+    "options": {
+      "A": "RM974,817.79",
+      "B": "RM2,598,704.68",
+      "C": "RM159,950.18",
+      "D": "RM970,000.05"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "26",
+    "question": "This policy has the features of pure endowment and term combined. Whether the insured dies within or lives through the period of coverage, the sum insured plus bonuses are paid out. This policy is _____________.",
+    "options": {
+      "A": "endowment policy",
+      "B": "term policy",
+      "C": "whole life policy",
+      "D": "modified endowment policy"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "27",
+    "question": "An investment-linked policy has several advantages. Which one of the following is not an advantage of an investment-linked plan?",
+    "options": {
+      "A": "Premium top-up option",
+      "B": "No surrender value",
+      "C": "Switching option",
+      "D": "Partial withdrawal option"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "28",
+    "question": "Encik Ahmad has a policy that covers death only and is renewable every five years. What type of policy is this likely to be?",
+    "options": {
+      "A": "5-year term (without TPD)",
+      "B": "5-year term (with TPD)",
+      "C": "5-year limited payment whole life",
+      "D": "5-year endowment"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "29",
+    "question": "Under the Financial Services Act 2013, what is the lowest legal age for a proposer to be able to enter into an insurance contract with an insurer?",
+    "options": {
+      "A": "16 years of age",
+      "B": "18 years of age",
+      "C": "21 years of age",
+      "D": "25 years of age"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "30",
+    "question": "The clause that a life insurer cannot contest a claim based on the information provided at the time of application after a given period after the date of issue or date of reinstatement whichever is later is known as _____________.",
+    "options": {
+      "A": "the suicide clause",
+      "B": "the settlement option",
+      "C": "the incontestability clause",
+      "D": "non-forfeiture provisions"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "31",
+    "question": "Some of the key features of investment-linked plans include the ________.",
+    "options": {
+      "A": "I only",
+      "B": "I and II",
+      "C": "II and III",
+      "D": "I, II and III"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "32",
+    "question": "The charges for investment-linked life insurance are likely to be a combination of two or more of the following:\nI. annual fund management fee\nII. mortality charges\nIII. surrender charges\nIV. policy fee",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, III and IV",
+      "C": "II, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "33",
+    "question": "What type of life policy will you recommend to a young graduate who has just taken a housing loan and wishes to cover the indebtedness at minimum cost?",
+    "options": {
+      "A": "An accident policy",
+      "B": "An increasing term policy",
+      "C": "A decreasing term policy",
+      "D": "A whole life policy"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "34",
+    "question": "Which of the following health insurance is often issued in conjunction with a life policy and covers a list of dread diseases only?",
+    "options": {
+      "A": "Critical illnesses insurance",
+      "B": "Healthcare rider insurance",
+      "C": "Major medical insurance",
+      "D": "Hospital and surgical insurance"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "35",
+    "question": "Terms of payment under your health insurance are governed by ________.",
+    "options": {
+      "A": "annual limits",
+      "B": "lifetime limits",
+      "C": "co-insurance",
+      "D": "all of the above"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "36",
+    "question": "Which of the following changes would tend to decrease the premium on a disability policy?",
+    "options": {
+      "A": "A shorter waiting period",
+      "B": "Use of ‘own occupation’ definition of disability instead of ‘any occupation to which reasonably suited’",
+      "C": "Increasing the benefit level from 65% to 75% of prior earnings",
+      "D": "Lowering the payment period from until age 70 to until age 65"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "37",
+    "question": "Some of the common EXCLUSION found in major medical plans are ______.\nI. dental care\nII. pregnancy and childbirth (normal)\nIII. optional cosmetic surgery\nIV. expenses incurred as a result of war",
+    "options": {
+      "A": "I, II and IV",
+      "B": "I, II and III",
+      "C": "I, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "38",
+    "question": "Long-term healthcare covers ____________, which is defined as medical care ordered by a physician and provided by a registered nurse, licensed practical nurse or licensed therapist 24 hours a day.",
+    "options": {
+      "A": "custodian care",
+      "B": "intermediate nursing care",
+      "C": "skilled nursing care",
+      "D": "intensive home care"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "39",
+    "question": "Suppose Janet, a skilled neuro-surgeon, became unable to perform surgery because of severe arthritis. Which of the following is NOT true?",
+    "options": {
+      "A": "If Janet has a disability policy with an \"own occupation\" definition of disability, she will probably collect some benefits",
+      "B": "If the policy contains an \"own occupation\" definition of disability, the insurer will provide coverage only if Janet would not be able to perform another type of job such as teaching or consulting",
+      "C": "If the policy contains an \"any occupation for which reasonable suited\" definition of disability, the insurer will attempt to determine if there is another job for which Janet is suited and is still able to perform",
+      "D": "A policy with an \"own occupation\" definition is generally more expensive than a policy with an \"any occupation for which reasonable suited\" definition of disability"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "40",
+    "question": "Which of the following is true about long-term health care plan?\nI. It is rarely found in Malaysia\nII. It pays a daily or monthly benefit\nIII. It covers medical or custodial care received in a nursing facility, hospital or at home",
+    "options": {
+      "A": "I & II only",
+      "B": "I & III only",
+      "C": "II & III only",
+      "D": "I, II & III"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "41",
+    "question": "Which of the following annuity policies does not depend on human life to make periodic payment?",
+    "options": {
+      "A": "Pure life annuity",
+      "B": "Annuity certain",
+      "C": "Joint-life annuity",
+      "D": "Survivor annuity"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "42",
+    "question": "Which of the following best describe the type of annuity that provides payments until the death of the last annuitant?",
+    "options": {
+      "A": "Joint-life annuity",
+      "B": "Joint and survivor annuity",
+      "C": "Immediate annuity",
+      "D": "Pure life annuity"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "43",
+    "question": "An annuity product has two phases in its life cycle:",
+    "options": {
+      "A": "accumulation phase and receiving phase",
+      "B": "liquidation phase and receiving phase",
+      "C": "accumulation phase and liquidation phase",
+      "D": "accumulation phase and distributing phase"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "44",
+    "question": "Hassan purchased a life income annuity with a 10-year period certain. Hassan named himself as the annuitant and the payee, and he named his wife, Katijah, as the contingent payee of the annuity. Hassan died 16 years after benefit payments began. Which of the following statements is correct?",
+    "options": {
+      "A": "No further benefits are payable to Katijah",
+      "B": "Benefits are payable to Katijah for 4 more years",
+      "C": "Benefits are payable to Katijah for 10 more years",
+      "D": "Benefits are payable to Katijah until her death"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "45",
+    "question": "Mr. Kanesan asks you to recommend a policy that will cover the faulty design and construction of his machines and damage during installation. Which of the following policies is suitable for his needs?",
+    "options": {
+      "A": "Machinery breakdown policy",
+      "B": "Contractor’s all risk policy",
+      "C": "Comprehensive machine policy",
+      "D": "Loss of profit policy"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "46",
+    "question": "Mr. Hew was compensated by insurer when his machine broke down. The amount paid covers loss of profits due to the interruption of the production because of the machine breakdown. What sort of policy is Mr. Hew likely to be carrying?",
+    "options": {
+      "A": "Fire (consequential loss) policy",
+      "B": "Machinery & equipment policy",
+      "C": "Machinery breakdown (loss of profit) policy",
+      "D": "Liability (loss of profit) policy"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "47",
+    "question": "Which of the following falls under the Employer’s Liability Policy scope of cover? An employer’s liability at law for accidents to his employee arising out of:\nI. The employer’s personal negligence\nII. The employer’s breach of duty in taking adequate safety measures\nIII. The employee’s own negligence",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I & II only",
+      "D": "I & III only"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "48",
+    "question": "Your homeowners’ insurance will cover which of the following?\nI. The meter-reader’s torn shorts, which were eaten by Blacky, your dog\nII. Your attached garage destroyed by typhoon\nIII. Your new Proton Saga parked inside the garage",
+    "options": {
+      "A": "I & II only",
+      "B": "I & III only",
+      "C": "II & III only",
+      "D": "I, II & III"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "49",
+    "question": "The right of ____________ gives the insurer the right to recover its costs from the at-fault party after the company has paid a claim to its insured.",
+    "options": {
+      "A": "subrogation",
+      "B": "indemnity",
+      "C": "co-insurance",
+      "D": "insurable interest"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": "50",
+    "question": "Select the statement that is NOT true about money insurance.",
+    "options": {
+      "A": "It covers money in transit against loss or destruction by robbery, hold-up or theft",
+      "B": "It covers money in premises against loss or destruction by robbery, hold-up or theft",
+      "C": "The rate charged for money in transit is based on the estimated annual carryings",
+      "D": "It indemnifies employers against money loss arising from the dishonesty of employees"
+    },
+    "answer": ""
+  },
+    {
+    "number": 51,
+    "question": "Mr. Balan’s house was burglarised while the family was away on a holiday. Valuable items worth RM100,000 were stolen. What type of losses is Balan experiencing?",
+    "options": {
+      "a": "Consequential loss",
+      "b": "Expenses loss",
+      "c": "Direct loss",
+      "d": "Financial loss"
+    },
+    "answer": ""
+  },
+  {
+    "number": 52,
+    "question": "A person who has entered to work under a contract of service with an employer is defined as a workman. The following are persons EXEMPTED from this definition:\nI casual workers\nII domestic servants\nIII members of the armed and police forces\nIV non-manual workers whose monthly earnings exceed RM2,000",
+    "options": {
+      "a": "I and II",
+      "b": "I, II and III",
+      "c": "I, II and IV",
+      "d": "I, II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "number": 53,
+    "question": "General takaful schemes are short-duration ______________ contracts that give cover to individuals or businesses against loss or damages due to a catastrophe or disaster.",
+    "options": {
+      "a": "tabaruk",
+      "b": "al-maisir",
+      "c": "syariah",
+      "d": "al-ijara"
+    },
+    "answer": ""
+  },
+  {
+    "number": 54,
+    "question": "Takaful business operators in Malaysia operate following two models, namely Al-Mudharabah and ___________.",
+    "options": {
+      "a": "Al-Akhlak",
+      "b": "Al-Ijma",
+      "c": "Wakalah",
+      "d": "Al-Muamalat"
+    },
+    "answer": ""
+  },
+  {
+    "number": 55,
+    "question": "What was the first takaful operating model used in Malaysia?",
+    "options": {
+      "a": "Wakalah model",
+      "b": "Ijma model",
+      "c": "Al-Mudharabah model",
+      "d": "Al-Akhlak model"
+    },
+    "answer": ""
+  },
+  {
+    "number": 56,
+    "question": "In the view of Islamic scholars, an insurance contract is a contract of buying and selling. For a buy - sell contract to be valid according to the Syariah, the following must exist:\nI. seller and buyer\nII. subject matter\nIII. consent (sighah-ijab and qabul)\nIV. moral and ethics",
+    "options": {
+      "a": "I and II",
+      "b": "I, II and III",
+      "c": "I, II and IV",
+      "d": "I, II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "number": 57,
+    "question": "The element of Al-Maisir is referred to as ___________.",
+    "options": {
+      "a": "gambling",
+      "b": "uncertainty",
+      "c": "ijab and qabul",
+      "d": "the imposing of interest"
+    },
+    "answer": ""
+  },
+  {
+    "number": 58,
+    "question": "All the following features are unique to insurance contracts (versus other business contracts) except __________.",
+    "options": {
+      "a": "insurable interest",
+      "b": "subrogation",
+      "c": "utmost good faith",
+      "d": "consideration"
+    },
+    "answer": ""
+  },
+  {
+    "number": 59,
+    "question": "The personal feature of property insurance contracts means that ______.",
+    "options": {
+      "a": "subrogation always applies",
+      "b": "ambiguities in the wording will always be construed against the insurer",
+      "c": "insurance contracts cannot be freely transferred to other parties",
+      "d": "the buyer of insurance must have insurable interest in property before the policy is issued"
+    },
+    "answer": ""
+  },
+  {
+    "number": 60,
+    "question": "‘The insured must accept the entire contract with all its terms and conditions that are attached to the policy contract. The insured cannot bargain for the contract to be modified to suit his case’. The above statement describes the _____________.",
+    "options": {
+      "a": "aleatory contract",
+      "b": "unilateral contract",
+      "c": "personal contract",
+      "d": "contract of adhesion"
+    },
+    "answer": ""
+  },
+    {
+    "number": 61,
+    "question": "The principle of utmost good faith _________________",
+    "options": {
+      "a": "holds the insurer to a higher standard of honesty",
+      "b": "does not apply in life insurance",
+      "c": "holds the insured to a higher standard of honesty",
+      "d": "requires the insurer and insured to enter the contract with utmost good faith"
+    },
+    "answer": ""
+  },
+  {
+    "number": 62,
+    "question": "Insurable interest must exist at the time of purchasing a policy. Which of the following indicates the existence of insurable interest?",
+    "options": {
+      "a": "Fiancé",
+      "b": "Ownership of property",
+      "c": "Proof of residence",
+      "d": "Proof of payment"
+    },
+    "answer": ""
+  },
+  {
+    "number": 63,
+    "question": "If a property insurance agent goes to Maria's door, convinces her to apply for insurance and write a check for the policy premium, which of the following has occurred?",
+    "options": {
+      "a": "Offer, acceptance",
+      "b": "Soliciting an offer, offer, acceptance, consideration",
+      "c": "Offer, counter offer, acceptance, consideration",
+      "d": "Offer, consideration"
+    },
+    "answer": ""
+  },
+  {
+    "number": 64,
+    "question": "Which of the following is correct concerning when insurable interest must exist?",
+    "options": {
+      "a": "In property and liability insurance, it must exist at the inception of the contract",
+      "b": "It is seldom required in property insurance unless there are liens on the property",
+      "c": "It must exist at the time of death of the insured for the beneficiary to collect in life insurance",
+      "d": "In life insurance, it must exist at the inception of the policy but it is not necessary at the time of the loss"
+    },
+    "answer": ""
+  },
+  {
+    "number": 65,
+    "question": "Evan has his house insured for RM200,000. He sold the house to Ann for RM225,000. Three days after the sale is completed the house is destroyed by fire. Evan has not cancelled his homeowner's insurance policy, so he decides to file a claim for losses caused by the fire. What will most likely happen?",
+    "options": {
+      "a": "Evan will collect RM200,000 in insurance payments",
+      "b": "Evan will collect RM200,000 in insurance payments ONLY IF Ann has not yet purchased a homeowner's policy of her own",
+      "c": "Evan will collect nothing because he has no insurable interest",
+      "d": "Ann will collect RM200,000 from Evan's insurer"
+    },
+    "answer": ""
+  },
+  {
+    "number": 66,
+    "question": "The following are the objectives of the code of good practice for life insurance products, EXCEPT ___________.",
+    "options": {
+      "a": "fair pricing of products",
+      "b": "truth in selling with full disclosure",
+      "c": "design of life insurance products to ethical standards",
+      "d": "competence of an agent recommending the product"
+    },
+    "answer": ""
+  },
+  {
+    "number": 67,
+    "question": "What are the purposes of having the inter-company agreement amongst the members of PIAM?",
+    "options": {
+      "a": "To promote and protect the interest of the members",
+      "b": "To regulate the conduct and activities of all insurance companies engaged in the general insurance business",
+      "c": "To monitor the tariffs, commissions and remuneration applicable to the general insurance business",
+      "d": "All of the above"
+    },
+    "answer": ""
+  },
+  {
+    "number": 68,
+    "question": "A life insurer or its intermediary shall not issue or use a brochure providing information on non-guaranteed benefits unless the release of such information has been authorized by its appointed _____________.",
+    "options": {
+      "a": "Chief Executive Officer (CEO)",
+      "b": "Chief Financial Officer (CFO)",
+      "c": "accountant",
+      "d": "actuary"
+    },
+    "answer": ""
+  },
+  {
+    "number": 69,
+    "question": "Under Bank Negara Malaysia’s qualitative control guidelines by Bank Negara for Agents, agents must fulfill the following requirements, EXCEPT ___________.",
+    "options": {
+      "a": "be at least 18 years old",
+      "b": "not be an undischarged bankrupt",
+      "c": "be registered with Life Insurance Association of Malaysia (LIAM)",
+      "d": "be registered with National Association of Malaysian Life Insurance And Financial Advisors (NAMLIFA)"
+    },
+    "answer": ""
+  },
+  {
+    "number": 70,
+    "question": "The following are the rights of a consumer, EXCEPT ____________.",
+    "options": {
+      "a": "the right to be heard",
+      "b": "the right to satisfaction",
+      "c": "the right to information",
+      "d": "the right to coerce sellers"
+    },
+    "answer": ""
+  },
+  {
+    "number": 71,
+    "question": "An employee who is injured while on leave is covered by SOCSO under the ___.",
+    "options": {
+      "a": "employee injury insurance scheme",
+      "b": "employer injury insurance scheme",
+      "c": "invalidity pension scheme",
+      "d": "validity pension scheme"
+    },
+    "answer": ""
+  },
+  {
+    "number": 72,
+    "question": "The Social Security Act (1969) defines ‘an employee’ as ____________.",
+    "options": {
+      "a": "a person employed under a contract of service or apprenticeship",
+      "b": "a sub-contract staff",
+      "c": "a broker",
+      "d": "none of the above"
+    },
+    "answer": ""
+  },
+  {
+    "number": 73,
+    "question": "The following are the benefits under the SOCSO scheme, EXCEPT _____",
+    "options": {
+      "a": "medical benefits",
+      "b": "funeral benefits",
+      "c": "bonus payment",
+      "d": "education benefits"
+    },
+    "answer": ""
+  },
+  {
+    "number": 74,
+    "question": "_____________ are EXEMPTED from coverage by SOCSO.",
+    "options": {
+      "a": "Employees of an immediate employer",
+      "b": "Domestic servants",
+      "c": "Supervisors",
+      "d": "Employees"
+    },
+    "answer": ""
+  },
+  {
+    "number": 75,
+    "question": "The temporary disablement benefit under the SOCSO scheme is NOT payable when the __________________.",
+    "options": {
+      "a": "employee has been certified by a doctor to be unfit for work for not less than four days including the day of the accident",
+      "b": "benefit is paid for the certified period of disablement when the employee is on medical leave",
+      "c": "benefit is payable for the certified period of disablement even if the employee works and earns wages during this period",
+      "d": "daily rate of temporary disablement benefit is equivalent to 80% of the average assumed daily wage subject to a minimum rate of RM30"
+    },
+    "answer": ""
   }
 ]
