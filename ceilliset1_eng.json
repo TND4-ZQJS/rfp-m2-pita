@@ -549,279 +549,280 @@
     },
     "answer": ""
   },
-    {
-    "number": 51,
-    "question": "Mr. Balan’s house was burglarised while the family was away on a holiday. Valuable items worth RM100,000 were stolen. What type of losses is Balan experiencing?",
+  {
+    "questionNumber": "51",
+    "question": "Mr. Balan’s house was burglarised while the family was away on a holiday.\nValuable items worth RM100,000 were stolen. What type of losses is Balan experiencing?",
     "options": {
-      "a": "Consequential loss",
-      "b": "Expenses loss",
-      "c": "Direct loss",
-      "d": "Financial loss"
+      "A": "Consequential loss",
+      "B": "Expenses loss",
+      "C": "Direct loss",
+      "D": "Financial loss"
     },
     "answer": ""
   },
   {
-    "number": 52,
+    "questionNumber": "52",
     "question": "A person who has entered to work under a contract of service with an employer is defined as a workman. The following are persons EXEMPTED from this definition:\nI casual workers\nII domestic servants\nIII members of the armed and police forces\nIV non-manual workers whose monthly earnings exceed RM2,000",
     "options": {
-      "a": "I and II",
-      "b": "I, II and III",
-      "c": "I, II and IV",
-      "d": "I, II, III and IV"
+      "A": "I and II",
+      "B": "I, II and III",
+      "C": "I, II and IV",
+      "D": "I, II, III and IV"
     },
     "answer": ""
   },
   {
-    "number": 53,
+    "questionNumber": "53",
     "question": "General takaful schemes are short-duration ______________ contracts that give cover to individuals or businesses against loss or damages due to a catastrophe or disaster.",
     "options": {
-      "a": "tabaruk",
-      "b": "al-maisir",
-      "c": "syariah",
-      "d": "al-ijara"
+      "A": "tabaruk",
+      "B": "al-maisir",
+      "C": "syariah",
+      "D": "al-ijara"
     },
     "answer": ""
   },
   {
-    "number": 54,
+    "questionNumber": "54",
     "question": "Takaful business operators in Malaysia operate following two models, namely Al-Mudharabah and ___________.",
     "options": {
-      "a": "Al-Akhlak",
-      "b": "Al-Ijma",
-      "c": "Wakalah",
-      "d": "Al-Muamalat"
+      "A": "Al-Akhlak",
+      "B": "Al-Ijma",
+      "C": "Wakalah",
+      "D": "Al-Muamalat"
     },
     "answer": ""
   },
   {
-    "number": 55,
+    "questionNumber": "55",
     "question": "What was the first takaful operating model used in Malaysia?",
     "options": {
-      "a": "Wakalah model",
-      "b": "Ijma model",
-      "c": "Al-Mudharabah model",
-      "d": "Al-Akhlak model"
+      "A": "Wakalah model",
+      "B": "Ijma model",
+      "C": "Al-Mudharabah model",
+      "D": "Al-Akhlak model"
     },
     "answer": ""
   },
   {
-    "number": 56,
+    "questionNumber": "56",
     "question": "In the view of Islamic scholars, an insurance contract is a contract of buying and selling. For a buy - sell contract to be valid according to the Syariah, the following must exist:\nI. seller and buyer\nII. subject matter\nIII. consent (sighah-ijab and qabul)\nIV. moral and ethics",
     "options": {
-      "a": "I and II",
-      "b": "I, II and III",
-      "c": "I, II and IV",
-      "d": "I, II, III and IV"
+      "A": "I and II",
+      "B": "I, II and III",
+      "C": "I, II and IV",
+      "D": "I, II, III and IV"
     },
     "answer": ""
   },
   {
-    "number": 57,
+    "questionNumber": "57",
     "question": "The element of Al-Maisir is referred to as ___________.",
     "options": {
-      "a": "gambling",
-      "b": "uncertainty",
-      "c": "ijab and qabul",
-      "d": "the imposing of interest"
+      "A": "gambling",
+      "B": "uncertainty",
+      "C": "ijab and qabul",
+      "D": "the imposing of interest"
     },
     "answer": ""
   },
   {
-    "number": 58,
+    "questionNumber": "58",
     "question": "All the following features are unique to insurance contracts (versus other business contracts) except __________.",
     "options": {
-      "a": "insurable interest",
-      "b": "subrogation",
-      "c": "utmost good faith",
-      "d": "consideration"
+      "A": "insurable interest",
+      "B": "subrogation",
+      "C": "utmost good faith",
+      "D": "consideration"
     },
     "answer": ""
   },
   {
-    "number": 59,
+    "questionNumber": "59",
     "question": "The personal feature of property insurance contracts means that ______.",
     "options": {
-      "a": "subrogation always applies",
-      "b": "ambiguities in the wording will always be construed against the insurer",
-      "c": "insurance contracts cannot be freely transferred to other parties",
-      "d": "the buyer of insurance must have insurable interest in property before the policy is issued"
+      "A": "subrogation always applies",
+      "B": "ambiguities in the wording will always be construed against the insurer",
+      "C": "insurance contracts cannot be freely transferred to other parties",
+      "D": "the buyer of insurance must have insurable interest in property before the policy is issued"
     },
     "answer": ""
   },
   {
-    "number": 60,
+    "questionNumber": "60",
     "question": "‘The insured must accept the entire contract with all its terms and conditions that are attached to the policy contract. The insured cannot bargain for the contract to be modified to suit his case’. The above statement describes the _____________.",
     "options": {
-      "a": "aleatory contract",
-      "b": "unilateral contract",
-      "c": "personal contract",
-      "d": "contract of adhesion"
+      "A": "aleatory contract",
+      "B": "unilateral contract",
+      "C": "personal contract",
+      "D": "contract of adhesion"
     },
     "answer": ""
   },
-    {
-    "number": 61,
+  {
+    "questionNumber": "61",
     "question": "The principle of utmost good faith _________________",
     "options": {
-      "a": "holds the insurer to a higher standard of honesty",
-      "b": "does not apply in life insurance",
-      "c": "holds the insured to a higher standard of honesty",
-      "d": "requires the insurer and insured to enter the contract with utmost good faith"
+      "A": "holds the insurer to a higher standard of honesty",
+      "B": "does not apply in life insurance",
+      "C": "holds the insured to a higher standard of honesty",
+      "D": "requires the insurer and insured to enter the contract with utmost good faith"
     },
     "answer": ""
   },
   {
-    "number": 62,
+    "questionNumber": "62",
     "question": "Insurable interest must exist at the time of purchasing a policy. Which of the following indicates the existence of insurable interest?",
     "options": {
-      "a": "Fiancé",
-      "b": "Ownership of property",
-      "c": "Proof of residence",
-      "d": "Proof of payment"
+      "A": "Fiancé",
+      "B": "Ownership of property",
+      "C": "Proof of residence",
+      "D": "Proof of payment"
     },
     "answer": ""
   },
   {
-    "number": 63,
+    "questionNumber": "63",
     "question": "If a property insurance agent goes to Maria's door, convinces her to apply for insurance and write a check for the policy premium, which of the following has occurred?",
     "options": {
-      "a": "Offer, acceptance",
-      "b": "Soliciting an offer, offer, acceptance, consideration",
-      "c": "Offer, counter offer, acceptance, consideration",
-      "d": "Offer, consideration"
+      "A": "Offer, acceptance",
+      "B": "Soliciting an offer, offer, acceptance, consideration",
+      "C": "Offer, counter offer, acceptance, consideration",
+      "D": "Offer, consideration"
     },
     "answer": ""
   },
   {
-    "number": 64,
+    "questionNumber": "64",
     "question": "Which of the following is correct concerning when insurable interest must exist?",
     "options": {
-      "a": "In property and liability insurance, it must exist at the inception of the contract",
-      "b": "It is seldom required in property insurance unless there are liens on the property",
-      "c": "It must exist at the time of death of the insured for the beneficiary to collect in life insurance",
-      "d": "In life insurance, it must exist at the inception of the policy but it is not necessary at the time of the loss"
+      "A": "In property and liability insurance, it must exist at the inception of the contract",
+      "B": "It is seldom required in property insurance unless there are liens on the property",
+      "C": "It must exist at the time of death of the insured for the beneficiary to collect in life insurance",
+      "D": "In life insurance, it must exist at the inception of the policy but it is not necessary at the time of the loss"
     },
     "answer": ""
   },
   {
-    "number": 65,
+    "questionNumber": "65",
     "question": "Evan has his house insured for RM200,000. He sold the house to Ann for RM225,000. Three days after the sale is completed the house is destroyed by fire. Evan has not cancelled his homeowner's insurance policy, so he decides to file a claim for losses caused by the fire. What will most likely happen?",
     "options": {
-      "a": "Evan will collect RM200,000 in insurance payments",
-      "b": "Evan will collect RM200,000 in insurance payments ONLY IF Ann has not yet purchased a homeowner's policy of her own",
-      "c": "Evan will collect nothing because he has no insurable interest",
-      "d": "Ann will collect RM200,000 from Evan's insurer"
+      "A": "Evan will collect RM200,000 in insurance payments",
+      "B": "Evan will collect RM200,000 in insurance payments ONLY IF Ann has not yet purchased a homeowner's policy of her own",
+      "C": "Evan will collect nothing because he has no insurable interest",
+      "D": "Ann will collect RM200,000 from Evan's insurer"
     },
     "answer": ""
   },
   {
-    "number": 66,
+    "questionNumber": "66",
     "question": "The following are the objectives of the code of good practice for life insurance products, EXCEPT ___________.",
     "options": {
-      "a": "fair pricing of products",
-      "b": "truth in selling with full disclosure",
-      "c": "design of life insurance products to ethical standards",
-      "d": "competence of an agent recommending the product"
+      "A": "fair pricing of products",
+      "B": "truth in selling with full disclosure",
+      "C": "design of life insurance products to ethical standards",
+      "D": "competence of an agent recommending the product"
     },
     "answer": ""
   },
   {
-    "number": 67,
+    "questionNumber": "67",
     "question": "What are the purposes of having the inter-company agreement amongst the members of PIAM?",
     "options": {
-      "a": "To promote and protect the interest of the members",
-      "b": "To regulate the conduct and activities of all insurance companies engaged in the general insurance business",
-      "c": "To monitor the tariffs, commissions and remuneration applicable to the general insurance business",
-      "d": "All of the above"
+      "A": "To promote and protect the interest of the members",
+      "B": "To regulate the conduct and activities of all insurance companies engaged in the general insurance business",
+      "C": "To monitor the tariffs, commissions and remuneration applicable to the general insurance business",
+      "D": "All of the above"
     },
     "answer": ""
   },
   {
-    "number": 68,
+    "questionNumber": "68",
     "question": "A life insurer or its intermediary shall not issue or use a brochure providing information on non-guaranteed benefits unless the release of such information has been authorized by its appointed _____________.",
     "options": {
-      "a": "Chief Executive Officer (CEO)",
-      "b": "Chief Financial Officer (CFO)",
-      "c": "accountant",
-      "d": "actuary"
+      "A": "Chief Executive Officer (CEO)",
+      "B": "Chief Financial Officer (CFO)",
+      "C": "accountant",
+      "D": "actuary"
     },
     "answer": ""
   },
   {
-    "number": 69,
+    "questionNumber": "69",
     "question": "Under Bank Negara Malaysia’s qualitative control guidelines by Bank Negara for Agents, agents must fulfill the following requirements, EXCEPT ___________.",
     "options": {
-      "a": "be at least 18 years old",
-      "b": "not be an undischarged bankrupt",
-      "c": "be registered with Life Insurance Association of Malaysia (LIAM)",
-      "d": "be registered with National Association of Malaysian Life Insurance And Financial Advisors (NAMLIFA)"
+      "A": "be at least 18 years old",
+      "B": "not be an undischarged bankrupt",
+      "C": "be registered with Life Insurance Association of Malaysia (LIAM)",
+      "D": "be registered with National Association of Malaysian Life Insurance And Financial Advisors (NAMLIFA)"
     },
     "answer": ""
   },
   {
-    "number": 70,
+    "questionNumber": "70",
     "question": "The following are the rights of a consumer, EXCEPT ____________.",
     "options": {
-      "a": "the right to be heard",
-      "b": "the right to satisfaction",
-      "c": "the right to information",
-      "d": "the right to coerce sellers"
+      "A": "the right to be heard",
+      "B": "the right to satisfaction",
+      "C": "the right to information",
+      "D": "the right to coerce sellers"
     },
     "answer": ""
   },
   {
-    "number": 71,
+    "questionNumber": "71",
     "question": "An employee who is injured while on leave is covered by SOCSO under the ___.",
     "options": {
-      "a": "employee injury insurance scheme",
-      "b": "employer injury insurance scheme",
-      "c": "invalidity pension scheme",
-      "d": "validity pension scheme"
+      "A": "employee injury insurance scheme",
+      "B": "employer injury insurance scheme",
+      "C": "invalidity pension scheme",
+      "D": "validity pension scheme"
     },
     "answer": ""
   },
   {
-    "number": 72,
+    "questionNumber": "72",
     "question": "The Social Security Act (1969) defines ‘an employee’ as ____________.",
     "options": {
-      "a": "a person employed under a contract of service or apprenticeship",
-      "b": "a sub-contract staff",
-      "c": "a broker",
-      "d": "none of the above"
+      "A": "a person employed under a contract of service or apprenticeship",
+      "B": "a sub-contract staff",
+      "C": "a broker",
+      "D": "none of the above"
     },
     "answer": ""
   },
   {
-    "number": 73,
+    "questionNumber": "73",
     "question": "The following are the benefits under the SOCSO scheme, EXCEPT _____",
     "options": {
-      "a": "medical benefits",
-      "b": "funeral benefits",
-      "c": "bonus payment",
-      "d": "education benefits"
+      "A": "medical benefits",
+      "B": "funeral benefits",
+      "C": "bonus payment",
+      "D": "education benefits"
     },
     "answer": ""
   },
   {
-    "number": 74,
+    "questionNumber": "74",
     "question": "_____________ are EXEMPTED from coverage by SOCSO.",
     "options": {
-      "a": "Employees of an immediate employer",
-      "b": "Domestic servants",
-      "c": "Supervisors",
-      "d": "Employees"
+      "A": "Employees of an immediate employer",
+      "B": "Domestic servants",
+      "C": "Supervisors",
+      "D": "Employees"
     },
     "answer": ""
   },
   {
-    "number": 75,
+    "questionNumber": "75",
     "question": "The temporary disablement benefit under the SOCSO scheme is NOT payable when the __________________.",
     "options": {
-      "a": "employee has been certified by a doctor to be unfit for work for not less than four days including the day of the accident",
-      "b": "benefit is paid for the certified period of disablement when the employee is on medical leave",
-      "c": "benefit is payable for the certified period of disablement even if the employee works and earns wages during this period",
-      "d": "daily rate of temporary disablement benefit is equivalent to 80% of the average assumed daily wage subject to a minimum rate of RM30"
+      "A": "employee has been certified by a doctor to be unfit for work for not less than four days including the day of the accident",
+      "B": "benefit is paid for the certified period of disablement when the employee is on medical leave",
+      "C": "benefit is payable for the certified period of disablement even if the employee works and earns wages during this period",
+      "D": "daily rate of temporary disablement benefit is equivalent to 80% of the average assumed daily wage subject to a minimum rate of RM30"
     },
     "answer": ""
   }
 ]
+
